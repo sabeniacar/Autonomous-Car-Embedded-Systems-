@@ -1,0 +1,13 @@
+.\objects\wifi.o: Library\WIFI.c
+.\objects\wifi.o: Library\WIFI.h
+.\objects\wifi.o: Library\Serial.h
+.\objects\wifi.o: C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\LPC407x_8x_177x_8x.h
+.\objects\wifi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm4.h
+.\objects\wifi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\wifi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\wifi.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\wifi.o: C:\Keil_v5\ARM\PACK\Keil\LPC4000_DFP\2.0.0\Device\Include\system_LPC407x_8x_177x_8x.h
+.\objects\wifi.o: Library\SystemStructures.h
+.\objects\wifi.o: Library\ESP8266.h
+.\objects\wifi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\wifi.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
